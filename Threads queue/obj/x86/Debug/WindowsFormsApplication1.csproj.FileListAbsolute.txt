@@ -1,0 +1,31 @@
+C:\Users\Дмитрий\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Дмитрий\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Дмитрий\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Дмитрий\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Дмитрий\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Дмитрий\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Дмитрий\Documents\тестовое задание\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Дмитрий\Documents\тестовое задание\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Дмитрий\Documents\тестовое задание\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Дмитрий\Documents\тестовое задание\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Дмитрий\Documents\тестовое задание\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Дмитрий\Documents\тестовое задание\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Дмитрий\Documents\тестовое задание\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Documents\тестовое задание\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\тестовое задание техноком\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Дмитрий\Documents\тестовое задание техноком\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Дмитрий\Documents\тестовое задание техноком\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Дмитрий\Documents\тестовое задание техноком\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Дмитрий\Documents\тестовое задание техноком\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\тестовое задание техноком\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Дмитрий\Documents\тестовое задание техноком\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Дмитрий\Documents\тестовое задание техноком\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Test\Documents\тестовое задание техноком\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Test\Documents\тестовое задание техноком\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Test\Documents\тестовое задание техноком\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Test\Documents\тестовое задание техноком\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Test\Documents\тестовое задание техноком\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Test\Documents\тестовое задание техноком\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Test\Documents\тестовое задание техноком\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Test\Documents\тестовое задание техноком\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
